@@ -1,0 +1,10 @@
+1,The Shawshank Redemption,Drama,1994,9.3,28341469
+2,The Godfather,Crime,1972,9.2,246120974
+3,The Dark Knight,Action,2008,9.0,1004558444
+4,12 Angry Men,Drama,1957,9.0,4500000
+5,Schindler's List,Biography,1993,8.9,321365567
+6,The Lord of the Rings: The Return of the King,Adventure,2003,8.9,1120091000
+7,Pulp Fiction,Crime,1994,8.9,213928762
+8,The Good, the Bad and the Ugly,1966,8.8,25148000
+9,Fight Club,Drama,1999,8.8,100853753
+10,Forrest Gump,Drama,1994,8.8,678228000
